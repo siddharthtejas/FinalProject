@@ -1,0 +1,171 @@
+.rowone{
+   
+    
+    height: 80px;
+    background-color: #ce0505;
+  
+  }
+  
+  .logo{
+  
+      height:52px;
+      width:52px;
+      border-radius:50%;
+      background-color: white;
+      margin-top:10px;
+      display:inline-block;
+  }
+  
+  .details{
+      text-align:center;
+      font-family: Poppins;
+      font-size: 33px;
+      font-weight: 600;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.52;
+      letter-spacing: normal;
+      color: #eb2929;
+  
+  }
+  
+  .login{
+  
+      float:right;
+  
+      margin-top:20px;
+      
+      font-family: Poppins;
+      font-size: 18px;
+      font-weight: 500;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.56;
+      letter-spacing: normal;
+     
+      color: #ffffff;
+      margin-right:15px;
+  
+  }
+  
+  .create-account{
+  
+     
+     float:right;
+     margin-top:20px;
+     width: 152px;
+     height: 23px;
+     font-family: Poppins;
+     font-size: 18px;
+     font-weight: 500;
+     font-stretch: normal;
+     font-style: normal;
+     line-height: 1.56;
+     letter-spacing: normal;
+     color: #ffffff;
+  
+  
+  }
+  
+  .image{
+  
+     
+      margin-top:50px;
+      height:400px;
+      width:1400px;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      object-fit:cover;
+    
+  }
+  
+  .heading{
+  
+    
+    height: 43px;
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    margin-top:25px;
+    margin-left:3%;
+    color: #192f60;
+  }
+  
+  .contact{
+      margin-top:1%;
+      margin-left:3%;
+      display:inline-block;
+      font-family: Poppins;
+      font-size: 18px;
+      font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    
+  
+  }
+  
+  .overview{
+  
+      margin-top:1%;
+      margin-left:3%;
+      display:inline-block;
+      font-family: Poppins;
+      font-size: 18px;
+      font-weight: 600;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.5;
+      letter-spacing: normal;
+      text-align: left;
+      color: #192f60;
+  }
+  
+  
+  
+  .subheading{
+    
+    
+    height: 31px;
+    font-family: Poppins;
+    font-size: 22px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    margin-left:3%;
+    margin-top:2%;
+  
+  
+  
+  }
+  
+  .low-heading{
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.88;
+  letter-spacing: normal;
+  text-align: left;
+  color: #192f60;
+  margin-left:3%;
+  margin-top:1%;
+  }
+  
+  .last-row{
+  
+      height:200px;
+  }

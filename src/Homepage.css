@@ -1,0 +1,203 @@
+
+
+body {
+    margin: 0;
+  }
+  .image-container{
+      
+      
+    background: url('https://i.postimg.cc/76kStDSv/food-Wallpaper.png');
+    border-style: solid;
+    height:450px;
+    
+    
+   
+  }
+  
+  
+  .logo{
+       
+    background-color: white;
+    margin-left: 650px;
+    margin-top: 120px;
+    border-radius: 50%;
+    text-align: center;
+    width: 125px;
+    height: 120px;
+    padding-top: 10px;
+    border:5px solid orange;
+  
+  }
+  
+  .logo-text
+  {
+     text-align:center;
+     font-size:40px;
+     color: #eb2929;
+     font-family:Poppins;
+     transform: rotate(-20deg);
+     margin-top:10px;
+  
+  
+  
+  
+  }
+  
+  .Heading{
+   margin-top:20px;
+   font-size:36px;
+   color:white;
+   font-family:Poppins;
+   margin-left:400px;
+   font-weight:600;
+  }
+  
+  .Select-location
+  {
+      text-align:center;
+      margin-top:30px;  
+  }
+  
+  .selector1{
+      padding:10px;
+      width:270px;
+      margin-right:10px;
+      
+    
+      
+      
+  }
+  
+  .selector2{
+    padding:10px;
+    width:270px;
+    margin-right:100px;
+    background-image: url('https://img.icons8.com/android/24/000000/search.png');
+    background-repeat: no-repeat;
+    padding-left: 40px;
+    background-position: 8px 8px;
+    
+  }
+    
+  .Heading-Search{
+       
+    width: 239px;
+    height: 43px;
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    margin-top:30px;
+    margin-left:60px;
+  }
+  
+  .Subheading-Search{
+  
+    width: 331px;
+    height: 25px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #8c96ab;
+    margin-left:60px;
+  }
+  
+  .Component{
+    
+    margin-top:30px;
+    margin-left:60px;
+    width: 360px;
+    height: 160px;
+    box-shadow: 0 3px 6px 5px rgba(0, 0, 0, 0.16);
+    background-color: #ffffff;
+    display:inline-block;
+  
+  
+  
+  }
+  
+  .image{
+  
+     display:inline-block;
+     
+  }
+  
+  .content-details{
+  
+    width: 137px;
+    height: 62px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #8c96ab;
+    margin-top: -10px;
+    position: relative;
+    left:190px;
+    top:-115px;
+  }
+  
+  .Detail-Heading{
+    
+    width: 88px;
+    height: 25px;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    position: relative;
+    top: -125px;
+    margin-left:25px;
+  }
+  
+  
+  .footer{
+     
+     border:2px solid black;
+     height:80px;
+     background-image: linear-gradient(to right, rgba(219, 201, 168, 0), rgb(218, 35, 35));
+  
+  
+  }
+  .logo-one{
+       
+    display: inline-block;
+  
+     
+  
+  }
+  
+  .contact-details{
+  
+    display: inline-block;
+    position: relative;
+    top:-25px;
+    width:800px;
+    margin-left:150px;
+    
+    font-size:20px;
+    font-weight: bold;
+    color:white;
+  
+  }
+
+ 

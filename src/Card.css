@@ -1,0 +1,62 @@
+.Card{
+
+    margin-top:30px;
+    margin-left:60px;
+    width: 360px;
+    height: 160px;
+    box-shadow: 0 3px 6px 5px rgba(0, 0, 0, 0.16);
+    background-color: #ffffff;
+    display:inline-block; 
+
+
+
+}
+
+.image-tile{
+
+    
+    display:inline-block; 
+
+
+}
+
+.details{
+
+    
+    display:inline-block; 
+    color: var(--dark-slate-blue);
+
+
+}
+
+.Card-Details{
+
+    width: 137px;
+    height: 62px;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #8c96ab;
+    padding-left: 20px;
+}
+
+.Card-Heading{
+
+    width: 88px;
+    height: 25px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: var(--dark-slate-blue);
+    padding-left: 20px;
+}
